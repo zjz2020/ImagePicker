@@ -18,6 +18,7 @@ hello World
 >>数
 >>>小白🐰
 >>>>小灰兔
+![](http://img2.ph.126.net/-QN8YaoK64uWJ9pGFxlhSw==/4915116043422265970.png)
 直接回车不能换行，<br>要使用
 
     hello,`大家`好
@@ -29,4 +30,4 @@ Thank `You` . Please `Call` Me `Coder`
 ```C
 UIColor redcolor
 ```
-![](http://pan.baidu.com/disk/home#list/path=%2F)
+
