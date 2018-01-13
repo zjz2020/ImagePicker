@@ -4,7 +4,7 @@
 //  upImages
 //  Created by 张君泽 on 16/5/25.
 //  Copyright © 2016年 CloudEducation. All rights reserved.
-//
+//将发送垃圾
 
 #import "ViewController.h"
 #import <Photos/Photos.h>
