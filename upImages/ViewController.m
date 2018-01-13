@@ -1,10 +1,9 @@
 //
 //  ViewController.m
 //  upImages
-//
+//  upImages  还是没有搞定  还没有搞定呢
 //  Created by 张君泽 on 16/5/25.
-//  Copyright © 2016年 CloudEducation. All rights reserved.
-//
+
 
 #import "ViewController.h"
 #import <Photos/Photos.h>
